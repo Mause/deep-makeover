@@ -53,7 +53,7 @@ I initially assumed that a larger dataset would be better, and as a consequence 
 
 # Requirements
 
-You will need Python 3.5+ with Tensorflow r0.12+, and reasonably recent versions of numpy and scipy.
+You will need Python 3.5+ with Tensorflow r0.12+ (I used commit 28f5099 to be exact), and reasonably recent versions of numpy and scipy.
 
 
 ## Dataset
